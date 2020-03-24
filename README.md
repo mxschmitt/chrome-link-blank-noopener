@@ -19,6 +19,10 @@ And here how they will be captured in the popup window.
 
 Also the icon will change from an positive to a negative one once if there are findings on the page. It will check for DOM updates every second.
 
+## Installation
+
+Download the source code of the latest release and install it via the `chrome://extensions` page by enabling there the Developer mode and loading the unpacked variant.
+
 ## Helpful articles
 
 - [About the vulnerability](https://mathiasbynens.github.io/rel-noopener/)
